@@ -1,0 +1,6 @@
+{:paths ["src"]
+ :deps {io.pedestal/pedestal.service {:mvn/version "0.5.9"}
+        io.pedestal/pedestal.route {:mvn/version "0.5.9"}
+        io.pedestal/pedestal.immutant {:mvn/version "0.5.9"}
+        org.slf4j/slf4j-simple {:mvn/version "1.7.32"}
+        environ/environ {:mvn/version "1.2.0"}}}
